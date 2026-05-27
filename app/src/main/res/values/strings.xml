@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pos SaaS</string>
+
+    <string name="error_empty">Lengkapi data!</string>
+    <string name="uploading">Uploading...</string>
+    <string name="error_upload">Gagal upload gambar</string>
+    <string name="success_add">Produk berhasil ditambahkan</string>
+    <string name="error_save">Gagal simpan data</string>
+
+    <string name="error_id">Masukkan ID produk</string>
+    <string name="success_delete">Produk berhasil dihapus</string>
+    <string name="error_delete">Gagal hapus produk</string>
+
+    <string name="nama_user">Nama: %1$s</string>
+    <string name="data_not_found">Data tidak ditemukan</string>
+    <string name="error_load">Gagal load data</string>
+</resources>
