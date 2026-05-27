@@ -9,9 +9,9 @@ object CloudinaryManager {
 
     val cloudinary = Cloudinary(
         ObjectUtils.asMap(
-            "cloud_name", "delpu0vif",
-            "api_key", "231161664589315",
-            "api_secret", "ijgMwgBHf1BvGcHXCD0wHvAHdJc"
+            "cloud_name", "YOUR_CLOUD_NAME",
+            "api_key", "YOUR_API_KEY",
+            "api_secret", "YOUR_API_KEY_SECRET"
         )
     )
 
@@ -21,13 +21,13 @@ object CloudinaryManager {
             HashMap<String, String>()
 
         config["cloud_name"] =
-            "delpu0vif"
+            "YOUR_CLOUD_NAME"
 
         config["api_key"] =
-            "231161664589315"
+            "YOUR_API_KEY"
 
         config["api_secret"] =
-            "ijgMwgBHf1BvGcHXCD0wHvAHdJc"
+            "YOUR_API_KEY_SECRET"
 
         try {
 
